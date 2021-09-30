@@ -1,0 +1,16 @@
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\Pingpong.exe
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\Pingpong.deps.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\Pingpong.runtimeconfig.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\Pingpong.runtimeconfig.dev.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\Pingpong.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\ref\Pingpong.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\bin\Debug\net5.0\Pingpong.pdb
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.csproj.AssemblyReference.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.AssemblyInfoInputs.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.AssemblyInfo.cs
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.csproj.CoreCompileInputs.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\ref\Pingpong.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.pdb
+C:\Users\GBENGAOLANIPEKUN\Desktop\ping-pong\obj\Debug\net5.0\Pingpong.genruntimeconfig.cache
